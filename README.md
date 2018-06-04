@@ -21,3 +21,8 @@
 	- 파이썬으로 Google Spread Sheet 사용하기
 - 최지현
 	- Certbot
+
+### [2018-06-07](2018-06-07.md)
+
+- 최지현
+    - PostgreSQL 백업 자동화 하기
