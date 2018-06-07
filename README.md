@@ -26,3 +26,6 @@
 
 - 최지현
     - PostgreSQL 백업 자동화 하기
+- 신동진
+    - Postman에서 Cookie 설정하기
+    - PDF 문서에 이미지 삽입하기
