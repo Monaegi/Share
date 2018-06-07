@@ -29,3 +29,7 @@
 - 신동진
     - Postman에서 Cookie 설정하기
     - PDF 문서에 이미지 삽입하기
+- 이한영
+    - 장고 Introduction to models 문서 번역
+- 유가희  
+    - 카카오톡 챗봇 관련 DB 오류 수정
